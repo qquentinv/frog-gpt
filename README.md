@@ -26,6 +26,10 @@ Create .env file and add your api key like this:
 NEXT_PUBLIC_OPENAI_KEY={YOUR_API_KEY}
 ```
 
+Link for get your api key:
+
+*https://platform.openai.com/account/api-keys*
+
 ## Usage
 
 This project use official openai api. You can choose the chatbot model in 'pages.tsx'.
